@@ -1,0 +1,37 @@
+{
+   "auto_disconnect_connection" : false,
+   "autoban" : false,
+   "configs" : [
+      {
+         "ConnectedTimes" : 0,
+         "Download_traffic" : 0.0,
+         "FailureTimes" : 0,
+         "Latency" : 0,
+         "Upload_traffic" : 0.0,
+         "charge_type" : 0,
+         "enable" : true,
+         "method" : "rc4-md5",
+         "password" : "75403565",
+         "remarks" : "",
+         "server" : "47.93.112.15",
+         "server_port" : 5530
+      }
+   ],
+   "enable" : true,
+   "global" : true,
+   "idInUse" : 0,
+   "index" : 0,
+   "localPort" : 1080,
+   "localSocksPass" : "",
+   "localSocksUser" : "",
+   "m_HotKeyForAddFromQRCode" : 0,
+   "pacUrl" : "",
+   "random" : false,
+   "reconnectTimes" : 3,
+   "runAtStartup" : false,
+   "shareOverLan" : false,
+   "startInSystray" : false,
+   "strHotKey" : "",
+   "testing_url" : "http://global.bing.com",
+   "useOnlinePac" : false
+}
